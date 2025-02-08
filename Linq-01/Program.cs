@@ -183,7 +183,7 @@ namespace Linq_01
             //Console.WriteLine();
             //Console.WriteLine(CustomerList[1]);
             ////323, Ana Trujillo Emparedados y helados, Avda. de la Constitución 2222, México D.F., , 05021, Mexico, (5) 555-4729, (5) 555-3745
-            
+
             //var Result = ProductList.Where(P => P.UnitsInStock == 0).ToList();
             //foreach (var item in Result)
             //{
